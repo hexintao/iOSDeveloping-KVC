@@ -1,0 +1,10 @@
+{   "name" : "测试",
+    "detail" : "这是 json 解析测试",
+    "postscript" : "请填写备注信息",
+    "nested" :
+    {
+        "nestedName" : "嵌套测试",
+        "nestedDetail" : "嵌套的 json 测试",
+        "nestedPostscript" : "嵌套的备注信息"
+    }
+}
